@@ -1,1 +1,1 @@
-# software-quality-and-testing
+# software-quality-and-testing labs
